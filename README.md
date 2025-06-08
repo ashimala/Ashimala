@@ -1,11 +1,17 @@
 ## Hi there 👋
 
+
+## Ashimala Casper is  Health Informatics Professional with extensive experience in Health Care Data Management,Analysis and Presentation/visualisation.
+## He has good knowlege in data management and analytical tools like, SPSS, Python, SQL, Power BI, Avanced Excel and Decision making skill.
+
+## My Resume
+📄 [Download Resume](https://drive.google.com/file/d/1GCSXoEqXWl3RfdYSv0EflE2w4PBr0iza/view?usp=sharing)
 <!--
 **ashimala/Ashimala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I'm Health information Officer
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
