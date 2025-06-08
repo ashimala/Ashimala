@@ -49,7 +49,7 @@ I am a dedicated data professional with a strong background in data analysis, mo
 
 ---
 
-*Let's connect, collaborate, and unlock new insights from data!*## 
+*Let's connect, collaborate, and unlock new insights from data!* 
 
 
 
